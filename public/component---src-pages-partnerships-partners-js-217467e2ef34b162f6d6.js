@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcontentful_starter_gatsby_blog=self.webpackChunkcontentful_starter_gatsby_blog||[]).push([[648],{6407:function(t,e,n){n.r(e);var l=n(7294),r=n(7643);e.default=function(){return l.createElement(r.Z,null,l.createElement("div",null,"partners"))}}}]);
+//# sourceMappingURL=component---src-pages-partnerships-partners-js-217467e2ef34b162f6d6.js.map

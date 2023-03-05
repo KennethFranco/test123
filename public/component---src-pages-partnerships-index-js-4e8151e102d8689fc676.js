@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmisa_website_2023=self.webpackChunkmisa_website_2023||[]).push([[709],{4120:function(e,t,n){n.r(t);var s=n(7294),u=n(5010);t.default=function(){return s.createElement(u.Z,null,s.createElement("div",null,"partnerships"))}}}]);
+//# sourceMappingURL=component---src-pages-partnerships-index-js-4e8151e102d8689fc676.js.map
